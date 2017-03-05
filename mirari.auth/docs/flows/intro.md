@@ -1,7 +1,7 @@
 ﻿# Auth Flows
 
 ### User interaction flows
-There flows requires a human interaction at some point
+There flows requires a human interaction at some point.
 
 - [Authorization Code Flow](AuthorizationCodeFlow.md)
   1. Request authorization
@@ -15,5 +15,11 @@ There flows requires a human interaction at some point
 ### Non-User Interaction flows 
 These are none human flows that are user for machine-machine scenarios.
 
+
 - Resource Owner Password Credential Flows
-- Client Credential Flow 
+  1. Request token with resource owner credentials
+  2. Access resource
+
+- Client Credential Flow
+  1. Request token with client credentials
+  2. Access resource
