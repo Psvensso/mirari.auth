@@ -1,15 +1,6 @@
 ﻿
 # Authorization Code Grant/Flow
 
-As a Facebook user you upload data to your profile, 
-some is displayed publically and some is private. 
-This information is a resource which you may want to share with third party applications. 
-You as the user are the resource owner and only you have the credentials required to access 
-these resources. Because those credentials are all that is required to prove your identity, 
-you don’t want to disclose those to a third party application and that’s where OAuth comes into play. 
-
-OAuth specifies ways to grant access to a resource. 
-This diagram corresponds to the authorization code grant which is used to delegate access to the resource server.
 
      +----------+
      | Resource |
