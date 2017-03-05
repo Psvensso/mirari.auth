@@ -12,7 +12,7 @@ There flows requires a human interaction at some point
   1. Request authorization and token 
   2. Access resource
 
-Non-User Interaction flows
+### Non-User Interaction flows 
 These are none human flows that are user for machine-machine scenarios.
 
 - Resource Owner Password Credential Flows
