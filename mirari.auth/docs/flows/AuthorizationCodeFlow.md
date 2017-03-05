@@ -2,6 +2,7 @@
 # Authorization Code Grant/Flow
 
 
+
      +----------+
      | Resource |
      |   Owner  |
